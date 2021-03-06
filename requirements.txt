@@ -1,0 +1,8 @@
+psycopg2
+networkx
+numpy
+mesa
+lightgbm
+fbprophet
+scipy
+pandas

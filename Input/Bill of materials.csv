@@ -1,0 +1,6 @@
+Raw_material_ID,Raw_material_type,Level,Quantity,product_ID
+RM_1,Display,2,1,1
+RM_2,Casing,3,2,1
+RM_3,Motherboard,1,1,1
+RM_4,Battery,1,2,1
+RM_5,Interior parts,3,5,1
