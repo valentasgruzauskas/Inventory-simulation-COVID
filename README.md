@@ -1,3 +1,5 @@
-This repository represents the simulation files of the scientific study "DETERMINING THE TRADE-OFFS OF INVENTORY MANAGEMENT APPROACHES IN THE FACE OF COVID-19".
+This repository represents the simulation files of the scientific study V. Gružauskas (KTU), A. Burinskienė (VGTU), Determining the Trade-offs of Inventory Management Approaches in the Face of Covid-19 2021, ISBN 978-609-02.
 
-The study access will be available after publishing.
+**License**
+
+CC BY-NC-SA
